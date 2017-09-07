@@ -1,0 +1,12 @@
+
+title: apVisitproc
+creators: 
+    - Meredith Rawls
+description: "apVisitproc is a collection of tools for processing APOGEE apVisit spectra. Current functionalities include creating simple text file spectra, continuum normalization, and removing telluric spikes. The original goal of these tools was to prepare apVisit spectra for radial velocity extraction using the broadening function method."
+source-url: https://github.com/mrawls/apVisitproc
+live-url: 
+contact-email: mrawls@uw.edu
+doi: 
+images: 
+orcid: 
+    - 
